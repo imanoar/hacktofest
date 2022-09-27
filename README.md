@@ -80,7 +80,7 @@ Check [Contribution](/CONTRIBUTION.md) Guide Before Contribution.
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 Click on "Start Hacking" and add your GitHub account.
 
-![Screenshot-HFST](https://github.com/bajajvinamr/HacktoberFest2022/blob/master/1.png)
+![Screenshot-HFST](https://raw.githubusercontent.com/imanoar/hacktofest/main/love.png)
 
 
 
