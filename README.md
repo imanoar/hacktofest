@@ -36,7 +36,7 @@ The Digital Ocean team should eventually contact you asking for your shirt size 
 Don’t miss this opportunity. Start contributing to open source and get a limited edition T-shirt for Free! And also, Stickers!
 
 
-![image here](https://raw.githubusercontent.com/imanoar/hacktofest/main/hacktoberfest-2022.png)
+![image here](https://raw.githubusercontent.com/imanoar/hacktofest/main/hacktoberfest.png)
 
 # Event details
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
