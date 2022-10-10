@@ -1,12 +1,12 @@
-Terms of Service Agreement
-Last Updated on February 5, 2022
+#Terms of Service Agreement
+##Last Updated on February 5, 2022
 
 Effective on October 22, 2020 Prior TOS available here.
 
-Introduction
+##Introduction
 Welcome to DigitalOcean’s Terms of Service! The first portion of our Terms of Service is an introduction, which is structured like an FAQ and lays out some high-level concepts before diving into other terms.
 
-What documents make up the TOS?
+##What documents make up the TOS?
 We refer to the Terms of Service as the “TOS”
 
 This page lays out the core of our TOS, but we also have other contractual documents that you can think of as additional terms for specific topics. Legally speaking, these other documents are incorporated by reference as if they were written here and form part of the overall TOS. Therefore, you should also review these other documents, which can be found at the links below:
@@ -20,26 +20,26 @@ When we refer to “DigitalOcean” or we use pronouns like “we”, “us” o
 
 When we refer to the “User”, we are talking about you, and we will also use words like “you” and “your” to refer to you. Who “you” are can get more complicated if you are using our services on behalf of a company, organization, or other entity. In that case, you are representing to us that you have the authority to bind your company, organization, other entity to this TOS and that you agree to be legally bound by this TOS on behalf of such entity (and “User”, “you”, and “your” then refer to such entity). If you aren’t sure what this means or whether you are authorized to bind your company, organization, or entity to this contract, you should ask others in your organization to get clarification about authority.
 
-What is the TOS?
+##What is the TOS?
 This TOS is a binding contract between you and DigitalOcean, and covers all of the offerings, websites, products, services, features, content, applications and other things we offer to users like you.
 
 We will periodically differentiate between our websites such as digitalocean.com (which we will refer to collectively as the “Websites”) and all of our other services, such as our cloud infrastructure and other paid services (which we will refer to collectively as the “Services”).
 
 As you will see later in the TOS, Section 3 (Website Terms) is specific to your use of the Websites and Section 4 (Service Terms) is specific to your use of the Services.
 
-When does this TOS apply to me?
+##When does this TOS apply to me?
 Now that we have some common language, we want to ensure you understand when and how the TOS applies.
 
 First and foremost, you must understand that this is a binding legal contract that is required to use our Websites and Services. As such, you may only use our Websites and Services if you agree that you that have read, understood, and consented to be bound by this TOS.
 
 If you sign up for Services or create an account through our Websites, this TOS takes effect when you click “I accept” or other functionality indicating your acceptance of its terms. If you purchase Services through a separate written contract, this TOS is incorporated into that contract, whether it is called out or not. Regardless of these other methods, when you access or use our Websites and Services, this TOS applies and is legally binding on you and to your access and use. These are common examples, and this paragraph does not necessarily include all the other ways you can become bound to this TOS.
 
-What happens with disputes under this TOS?
+##What happens with disputes under this TOS?
 One requirement of our TOS is that you must agree to resolve disputes arising under this TOS through binding arbitration directly between you and DigitalOcean. In arbitration, a neutral arbitrator or panel of arbitrators will hear the arguments of both sides and decide on disputes in an expedient and cost-effective manner. You will still be able to pursue cases in court when those cases are for small claims, but all other claims will be subject to arbitration.
 
 You should understand that this means neither you nor DigitalOcean will have the opportunity to resolve some disputes in court before a judge or jury. You will be unable to pursue claims in a conventional trial and will not be able to participate in a court-based class action or similar proceeding.
 
-Terms & Conditions of the TOS
+#Terms & Conditions of the TOS
 1. Eligibility & Registration
 1.1 Before you use our Websites and Services, you must ensure that such use is in compliance with all laws, rules and regulations applicable to you. Your right to access the Websites and Services is revoked to the extent your use thereof is prohibited or to the extent our provision thereof conflicts with any applicable law, rule or regulation. You are responsible for making these determinations before using the Websites and Services.
 
