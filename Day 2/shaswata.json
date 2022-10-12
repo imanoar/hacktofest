@@ -1,0 +1,34 @@
+{
+    "categories":[{
+        "name" : "Bangladesh",
+        "slug" : "bangladesh"
+    },{
+        "name" : "News",
+        "slug" : "news"
+    },{
+        "name" : "Business",
+        "slug" : "business"
+    },{
+        "name" : "World",
+        "slug" : "world"
+    },{
+        "name" : "Sports",
+        "slug" : "sports"
+    },{
+        "name" : "Politics",
+        "slug" : "politics"
+    },{
+        "name" : "Crime",
+        "slug" : "crime"
+    }],{
+        "name" : "Environment",
+        "slug" : "environment"
+    }],{
+        "name" : "Education",
+        "slug" : "education"
+    }],{
+        "name" : "Others",
+        "slug" : "others"
+    }]
+}
+Footer
