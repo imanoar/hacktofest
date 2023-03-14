@@ -1,3 +1,6 @@
+[![Merged Without Review](https://img.shields.io/badge/Merged-Without%20Review-red.svg)](https://github.com/imanoar)
+
+
 # HacktoberFest-2022
 Repository designed for beginner to contribute to open-source 
 
